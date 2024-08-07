@@ -1,7 +1,7 @@
 ---
 title: Deprecated features in the client, server, database
 description: Describes the features that have been removed or replaced in the platform components of Business Central.
-author: brentholtorf
+author: test
 ms.author: bholtorf
 ms.reviewer: bholtorf
 ms.topic: conceptual
@@ -13,7 +13,7 @@ test
 test
 test
 
-# Deprecated features in the platform - Clients, Server, and Database
+# Deprecated features in the platform - Clients, Server + Database
 
 [!INCLUDE[azure-ad-to-microsoft-entra-id](~/../shared-content/shared/azure-ad-to-microsoft-entra-id.md)]
 
