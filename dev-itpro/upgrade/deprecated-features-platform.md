@@ -8,10 +8,12 @@ ms.topic: conceptual
 ms.date: 04/02/2024
 ms.custom: bap-template
 
-
-test
-test
-test
+       .
+      ":"
+    ___:____     |"\/"|
+  ,'        `.    \  /
+  |  O        \___/  |
+~^~^~^~^~^~^~^~^~^~^~^~^~
 
 # Deprecated features in the platform - Clients, Server + Database
 
@@ -24,16 +26,6 @@ This article describes the features that are up for removal or that have been re
 ## Changes in 2025 release wave 1 (version 26.0)
 
 ### Direct cloud migration and data upgrade from version Dynamics Business Central 2019 (v.14.x) (removal)
-
-        /  \
-       / ..|\
-      (_\  |_)
-      /  \@' 
-     /     \
-_   /  `   |
-\\/  \  | _\
- \   /_ || \\_
-  \____)|_) \_)
 
 |Removed or Replaced? |Why?|
 |---------|---------|
