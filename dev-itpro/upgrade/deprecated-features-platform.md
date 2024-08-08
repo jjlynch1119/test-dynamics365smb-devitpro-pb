@@ -8,14 +8,6 @@ ms.topic: conceptual
 ms.date: 05/02/2024
 ms.custom: bap-template
 
-test
-
-       .
-      ":"
-    ___:____     |"\/"|
-  ,'        `.    \  /
-  |  O        \___/  |
-~^~^~^~^~^~^~^~^~^~^~^~^~
 
 # Deprecated features in the platform - Clients, Server + Database
 
